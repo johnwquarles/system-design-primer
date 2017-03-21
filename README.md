@@ -369,7 +369,7 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-[Scalability](http://www.lecloud.net/tagged/scalability)
+- [x] [Scalability](http://www.lecloud.net/tagged/scalability)
 
 * Topics covered:
     * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
